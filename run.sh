@@ -1,1 +1,1 @@
-./client_linux_amd64 -t "${KCP_SERVER_HOST}:${KCP_SERVER_PORT}" -l "${KCP_LOCAL_HOST}:${KCP_LOCAL_PORT}" -mode fast2
+./client_linux_amd64 -r "${KCP_SERVER_HOST}:${KCP_SERVER_PORT}" -l "${KCP_LOCAL_HOST}:${KCP_LOCAL_PORT}" -mode fast2
